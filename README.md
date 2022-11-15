@@ -13,3 +13,6 @@ HAMZAH ALHAMIDI
 ALAMIR MOSTAFA
 
 Muhhammad Hassan Saleem
+
+#IP Adress of Raspberry
+192.168.73.61
