@@ -16,3 +16,6 @@ Muhhammad Hassan Saleem
 
 #IP Adress of Raspberry
 192.168.73.61
+
+#Wifi-Password TC-Cham
+bishfwil4
