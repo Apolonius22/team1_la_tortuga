@@ -1,4 +1,4 @@
-# team1_la_tortuga
+# team1_la_tortuga / Lab2
 
 # Task Deskription:
 create plot 
