@@ -19,3 +19,7 @@ Muhhammad Hassan Saleem
 
 #Wifi-Password TC-Cham
 bishfwil4
+
+
+# Lab 1 Using Internal mapping finctions to create map of environement   
+# Lab 2 Plotting Map by using LIDAR Module
